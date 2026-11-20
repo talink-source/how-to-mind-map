@@ -1,0 +1,90 @@
+- How to drive growth for a company
+  - Identify what's limiting growth
+    - Demand: not enough people are buying
+      - Acquisition: get more customers
+        - Find where customers come from today
+          - Build an acquisition baseline
+            - Count new customers by source, month by month over a full year
+              : Use tracked source and the "How did you hear about us?" answers side by side.
+            - Add the full cost of each source
+              : Media, fees, tools and the hours people spend on it.
+            - Calculate cost per customer and share of new customers for each source
+          - Name the main engine
+            - Check its trend over time
+              : Rising cost per customer at flat volume means the engine is saturating.
+            - Find where customers look but can't find the company
+              : The places the best customers look where the company is absent.
+        - Choose the engine to grow
+          - Work out what the company can afford to pay for a customer
+            - Calculate lifetime gross profit per customer
+              : Monthly revenue per customer times gross margin times the months they stay.
+            - Set the payback window the company can fund
+              : How many months the company can wait to earn back what it spent to win a customer.
+          - Match engines to the company's economics
+            : Low price per customer needs engines with almost no cost per customer: word of mouth, search content, partners, a product that spreads as it's used. Mid price can pay for ads, content and inside sales. High price can pay for outbound, field sales and events.
+            - Rule out engines the company's economics can't pay for
+            - Rule out engines that don't fit how customers look and buy
+              : Do they search, ask someone they trust, scroll, or get sold to?
+            - Shortlist the engines that pass both filters
+          - Commit to one engine until it's proven or ruled out
+            - Score each shortlisted engine
+              : Customers it could bring in, cost per customer, time to a readable signal, and fit with what the team is good at.
+            - Write down what the company gives up by not choosing the others
+            - Run a pre-mortem on the choice
+              : "The commitment period is over and this engine didn't work. Why?" Fix the biggest real threat before starting.
+        - Run each channel the way it works
+          - Search: show up when people look for the answer
+            : SEO (search engine optimization).
+            - Fix the technical basics
+              - Crawl the site
+                : Broken pages, redirect chains, duplicate pages, missing titles, slow pages, pages blocked from indexing.
+              - Fix whatever blocks pages from being indexed first
+              - Submit the sitemap and check page coverage in Search Console
+            - Build the keyword map
+              - Pull the phrases customers use from calls, reviews and the inquiry form
+              - Expand the list with a keyword research tool
+              - Group phrases by intent
+                : Learning ("what is," "how to"), comparing ("best," "vs," "alternative"), buying ("price," "near me," "hire").
+              - Assign one page to each group
+                : Two pages chasing the same group compete with each other.
+            - Prioritize the pages to build
+              - Start with buying and comparing intent
+                : Closest to revenue, and usually the least crowded for a specialist.
+              - Then the questions customers ask before they buy
+            - Write each page
+              - Write the brief
+                : The phrase, what the searcher is trying to do, the answer at the very top, the proof, and the next step.
+              - Answer the question in the opening lines, then go deep
+              - Add what only the company knows
+                : Its own data, customer cases, expert quotes, real photos. This is what lets a page outrank generic content.
+              - Link it from related pages and to the next step
+            - Earn links and mentions
+              - Publish original data or a free tool others will want to cite
+              - Pitch it to the publications and newsletters the audience reads
+            - Measure and maintain
+              - Track rankings, clicks and inquiries by page
+              - Refresh pages whose rankings or inquiries slip
+          - AI answers: get named when people ask AI assistants
+            : AEO (answer engine optimization).
+            - Find what buyers ask AI about the category
+              - List the questions buyers ask when comparing options
+                : Pull them from sales calls, the keyword map's comparing group, and "how did you hear about us" answers.
+              - Run each question in the main AI assistants
+              - Record which companies get named and which sources get cited
+            - Get the company into the sources assistants cite
+              - List the review sites, comparison articles and forums cited for each question
+              - Get listed and reviewed on the review sites and lists that are cited
+              - Answer questions in the cited forums and communities
+                : As a named company voice giving real help, not a pitch.
+              - Pitch the publications behind the cited articles
+            - Make the company's own pages easy to quote
+              - Put a direct answer at the top of each key page
+              - Phrase headings as the questions buyers ask
+              - Add facts an assistant can quote
+                : Prices, specs, numbers, named customers, where the company operates.
+              - Add structured data for the company, products, reviews and FAQs
+              - Keep facts identical across the site, profiles and listings
+                : Conflicting facts make assistants less likely to name the company.
+            - Track how often the company is named
+              - Rerun the same questions on a regular schedule and log mentions and citations
+              - Add "an AI assistant" as an option in "How did you hear about us?"
